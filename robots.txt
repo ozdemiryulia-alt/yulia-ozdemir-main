@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ozdemiryulia-alt.github.io/yulia-ozdemir-main/sitemap.xml
